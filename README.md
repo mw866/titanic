@@ -23,4 +23,8 @@ https://spark.apache.org/docs/latest/programming-guide.html#using-the-shell
 
 * plot.ly offline plotting: https://plot.ly/python/offline/
 
-* plot.ly layout: https://www.reddit.com/r/IPython/comments/3tibc8/tip_on_how_to_run_plotly_examples_in_offline_mode/?st=iyytvw2o&sh=3b58b433
+* Spark MLlib Guide: http://spark.apache.org/docs/latest/ml-guide.html
+
+* Spark SQL, DataFrames and Datasets Guide: http://spark.apache.org/docs/latest/sql-programming-guide.html
+
+* Spark Python API Reference: http://spark.apache.org/docs/latest/api/python/index.html
