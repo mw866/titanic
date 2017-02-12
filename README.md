@@ -28,3 +28,5 @@ https://spark.apache.org/docs/latest/programming-guide.html#using-the-shell
 * Spark SQL, DataFrames and Datasets Guide: http://spark.apache.org/docs/latest/sql-programming-guide.html
 
 * Spark Python API Reference: http://spark.apache.org/docs/latest/api/python/index.html
+
+** Spark Mlib Evaluation Metrics: https://spark.apache.org/docs/latest/mllib-evaluation-metrics.html
