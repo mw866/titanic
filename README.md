@@ -1,6 +1,6 @@
 # Titanic
-The classic Titanic data analytics project using Spark.
-CS 5304 HW1
+The classic Titanic data science project using Spark.
+Please refer to './titanic.ipynb' for the compete report.
 
 ## Instructions
 * Download spark-2.1.0-bin-hadoop2.7
@@ -29,4 +29,9 @@ https://spark.apache.org/docs/latest/programming-guide.html#using-the-shell
 
 * Spark Python API Reference: http://spark.apache.org/docs/latest/api/python/index.html
 
-** Spark Mlib Evaluation Metrics: https://spark.apache.org/docs/latest/mllib-evaluation-metrics.html
+* Spark Mlib Evaluation Metrics: https://spark.apache.org/docs/latest/mllib-evaluation-metrics.html
+
+
+## Troubleshooting
+* Unable to extract element from Vectors in DataFrame:
+http://stackoverflow.com/questions/37311688/how-to-split-column-of-vectors-into-two-columns
