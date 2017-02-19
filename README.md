@@ -35,3 +35,5 @@ https://spark.apache.org/docs/latest/programming-guide.html#using-the-shell
 ## Troubleshooting
 * Unable to extract element from Vectors in DataFrame:
 http://stackoverflow.com/questions/37311688/how-to-split-column-of-vectors-into-two-columns
+
+* Null value in test.csv: I154 is empty
