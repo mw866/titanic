@@ -1,6 +1,6 @@
 .DS_Store
-.docx
-.pdf
+*.docx
+*.pdf
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
